@@ -6,6 +6,8 @@
   <a href = "mailto:janmoreno@poligran.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@JohanRandom"  /></a>
 </p>
 <br>
+<div size='20px'> Hi! My name is Johan. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
 <h2>About Me 😃</h2>
 <p align="left">
@@ -39,3 +41,11 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRandom&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JohanRandom&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
+
+<br>
+
+
+-----
+Credits: [Johan Moreno](https://github.com/JohanRandom)
+
+Last Edited on: 01/03/2025
