@@ -27,7 +27,7 @@
 ## Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,mysql,git,github,vscode,eclipse&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,dart,mysql,git,github,vscode,eclipse,flutter&perline=6" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Java Swing desktop application with MySQL to manage emotional wellbeing records 
 Technologies:
 Java • Swing • MySQL • JDBC
 
-Repository:
+🔗 Repository:
 https://github.com/JohanRandom/school-emotional-management-system
 
 ---
