@@ -1,51 +1,70 @@
-<h1 align="center">Hello Fellow < Developers/ >! 👋🏽✨ </h1> 
+<h1 align="center">Hello Fellow < Developers/ >! 👋🏽</h1>
 
-<p align="left">
-  <a href="https://github.com/JohanRandom" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/janmoreno-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JohanRandom"/></a>
-  <a href = "mailto:janmoreno@poligran.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@JohanRandom"  /></a>
-</p>
-<br>
-<div size='20px'> Hi! My name is Johan. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2>About Me 😃</h2>
-<p align="left">
-🎓 Software Development student in training.
-
-💻 Passionate about learning new technologies and programming.
-
-📚 Learning and improving every day in the world of development.
-</p>
-<br>
-
-<h2>Skills 👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,mysql,git,github,eclipse,vscode,wordpress,ps,discord,windows&perline=6" />
+<p align="center">
+  <a href="https://github.com/JohanRandom">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/janmoreno-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:janmoreno@poligran.edu.co">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/janmoreno-dev/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.github.com/JohanRandom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+---
 
-<h2>Some projects👨🏻‍💻</h2>
-<p>I don't have public projects yet, but I'm working on it. 🚀</p>
-<br>
+## About Me
 
-<h2>GitHub Activity 📊</h2>
+🎓 Software Developer focused on application development.
 
-| ![JohanRandom's github stats](https://github-readme-stats.vercel.app/api?username=JohanRandom&show_icons=true&theme=radical)             | ![JohanRandom GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohanRandom&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRandom&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JohanRandom&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+💻 Passionate about learning new technologies and building software solutions.
 
+🚀 Currently developing projects and modern development tools
 
-<br>
+---
 
+## Skills
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,mysql,git,github,vscode,eclipse&perline=6" />
+</p>
+
+---
+
+## Featured Projects
+
+### School Emotional Management System
+
+Java Swing desktop application with MySQL to manage emotional wellbeing records of students.
+
+Technologies:
+Java • Swing • MySQL • JDBC
+
+Repository:
+https://github.com/JohanRandom/school-emotional-management-system
+
+---
+
+## GitHub Activity
+
+| ![stats](https://github-readme-stats.vercel.app/api?username=JohanRandom&show_icons=true&theme=radical) | ![streak](https://streak-stats.demolab.com?user=JohanRandom&theme=radical) |
+|--|--|
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRandom&layout=compact&theme=radical)
+
+---
+
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/janmoreno-dev/">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30"/>
+</a>
+
+<a href="https://github.com/JohanRandom">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30"/>
+</a>
 -----
 Credits: [Johan Moreno](https://github.com/JohanRandom)
 
-Last Edited on: 01/03/2025
+Last Edited on: 10/03/2026
