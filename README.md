@@ -27,21 +27,37 @@
 ## Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,dart,mysql,git,github,vscode,eclipse,flutter&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,js,html,css&perline=6" />
 </p>
 
 ---
 
 ## Featured Projects
 
+### E-commerce API (Spring Boot)
+
+REST API for an e-commerce system with secure authentication (JWT) and cloud deployment.
+
+**Technologies:**  
+Java • Spring Boot • PostgreSQL • JWT • BCrypt • Docker • Render  
+
+🔗 Repository:  
+https://github.com/JohanRandom/ecommerce-api  
+
+🌐 Live Demo:  
+https://ecommerce-api-ln7m.onrender.com  
+
+
+---
+
 ### School Emotional Management System
 
-Java Swing desktop application with MySQL to manage emotional wellbeing records of students.
+Desktop application to manage student emotional wellbeing records.
 
-Technologies:
-Java • Swing • MySQL • JDBC
+**Technologies:**  
+Java • Swing • MySQL • JDBC  
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/JohanRandom/school-emotional-management-system
 
 ---
@@ -67,4 +83,4 @@ https://github.com/JohanRandom/school-emotional-management-system
 -----
 Credits: [Johan Moreno](https://github.com/JohanRandom)
 
-Last Edited on: 10/03/2026
+Last Edited on: 01/05/2026
