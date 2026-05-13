@@ -9,13 +9,12 @@
 
 ---
 
-## 👨‍💻 About Me
-
+<details>
+  <summary><h2>👨‍💻 About Me</h2></summary>
 Software Developer focused on backend and web development with Java, Spring Boot and React.
 
 🚀 Building scalable applications and continuously learning modern technologies.
-
----
+</details>
 
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
