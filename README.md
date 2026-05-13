@@ -34,28 +34,42 @@
 
 ## Featured Projects
 
-### E-commerce API (Spring Boot)
+### 🛒 E-commerce API
 
 REST API for an e-commerce system with secure authentication (JWT) and cloud deployment.
 
 **Technologies:**  
-Java • Spring Boot • PostgreSQL • JWT • BCrypt • Docker • Render  
+`Java` `Spring Boot` `PostgreSQL` `JWT` `BCrypt` `Docker` `Render`
 
 🔗 Repository:  
 https://github.com/JohanRandom/ecommerce-api  
 
 🌐 Live Demo:  
-https://ecommerce-api-ln7m.onrender.com  
-
+https://ecommerce-api-ln7m.onrender.com
 
 ---
 
-### School Emotional Management System
+### 🌐 E-commerce Web
+
+Frontend web application connected to the E-commerce API.
+
+### Technologies
+`React` `JavaScript` `TailwindCSS` `Axios` `Vite`
+
+🔗 Repository:  
+https://github.com/JohanRandom/ecommerce-web
+
+🌐 Live Demo:  
+https://ecommerce-web-gamma-one.vercel.app
+
+---
+
+### 🏫 School Emotional Management System
 
 Desktop application to manage student emotional wellbeing records.
 
 **Technologies:**  
-Java • Swing • MySQL • JDBC  
+`Java` `Swing` `MySQL` `JDBC`
 
 🔗 Repository:  
 https://github.com/JohanRandom/school-emotional-management-system
@@ -64,23 +78,28 @@ https://github.com/JohanRandom/school-emotional-management-system
 
 ## GitHub Activity
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=JohanRandom&show_icons=true&theme=radical) | ![streak](https://streak-stats.demolab.com?user=JohanRandom&theme=radical) |
-|--|--|
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanRandom&layout=compact&theme=radical)
+![streak](https://streak-stats.demolab.com?user=JohanRandom&theme=radical) 
 
 ---
 
-## Connect With Me
+# 🌎 Connect With Me
 
-<a href="https://www.linkedin.com/in/janmoreno-dev/">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/janmoreno-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
 
-<a href="https://github.com/JohanRandom">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30"/>
-</a>
------
-Credits: [Johan Moreno](https://github.com/JohanRandom)
+  <a href="https://github.com/JohanRandom">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
 
-Last Edited on: 01/05/2026
+  <a href="mailto:janmoreno@poligran.edu.co">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  By <a href="https://github.com/JohanRandom">Johan Moreno</a>
+</p>
