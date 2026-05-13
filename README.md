@@ -76,9 +76,44 @@ https://github.com/JohanRandom/school-emotional-management-system
 
 ---
 
-## GitHub Activity
+# 📊 GitHub Stats
 
-![streak](https://streak-stats.demolab.com?user=JohanRandom&theme=radical) 
+<details>
+  <summary><h3>🔥 Streak Stats</h3></summary>
+
+  <p align="center">
+    <img 
+      src="https://streak-stats.demolab.com?user=JohanRandom&theme=tokyonight&hide_border=true" 
+      alt="GitHub Streak"
+    />
+  </p>
+</details>
+
+<details>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+  <p align="180em">
+    <img 
+      height="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohanRandom&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+
+  <img 
+      height="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanRandom&layout=compact&theme=tokyonight&hide_border=true"
+    />
+  </p>
+</details>
+
+<details>
+  <summary><h3>📈 Activity Graph</h3></summary>
+
+  <p align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=JohanRandom&theme=tokyo-night&hide_border=true"
+    />
+  </p>
+</details>
 
 ---
 
