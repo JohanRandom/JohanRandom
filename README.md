@@ -7,8 +7,6 @@
   />
 </p>
 
----
-
 <details>
   <summary><h2>👨‍💻 About Me</h2></summary>
 Software Developer focused on backend and web development with Java, Spring Boot and React.
