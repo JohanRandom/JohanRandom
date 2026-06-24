@@ -22,25 +22,29 @@ Software Developer focused on backend and web development with Java, Spring Boot
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
-
+    <img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white">
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white">
+    <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=springboot&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
     <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white">
-    <img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-007396?logo=java&logoColor=white">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
+    <img alt="BCrypt" src="https://img.shields.io/badge/BCrypt-00599C?logoColor=white">
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white">
+    <img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-007396?logoColor=white">
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -49,6 +53,9 @@ Software Developer focused on backend and web development with Java, Spring Boot
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
+    <img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black">
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-7B3FE4?logo=railway&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
   </p>
@@ -56,17 +63,17 @@ Software Developer focused on backend and web development with Java, Spring Boot
   <h3>💻 Software and Tools</h3>
 
   <p>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white">
+    <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=visualstudiocode&logoColor=white">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white">
     <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white">
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white">
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white">    
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   </p>
 
 </details>
