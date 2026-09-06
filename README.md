@@ -2,17 +2,35 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+and+Web+Development;Building+modern+web+applications;Always+learning+new+things"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+and+Web+Development;Building+real-world+projects;Always+learning+new+technologies"
     alt="Typing SVG" 
   />
 </p>
 
-<details>
-  <summary><h2>👨‍💻 About Me</h2></summary>
-Software Developer focused on backend and web development with Java, Spring Boot and React.
+<p align="center">
+  <a href="https://github.com/JohanRandom">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/janmoreno-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:johancodes@icloud.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-🚀 Building scalable applications and continuously learning modern technologies.
+---
+
+<details open>
+  <summary><h2>👨‍💻 About Me</h2></summary>
+
+Software Developer focused on backend and web development, with experience building APIs, web applications, and real-world client projects.
+
+🚀 Passionate about learning new technologies, building practical solutions, and continuously improving as a developer.
+
 </details>
+
+---
 
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -44,10 +62,10 @@ Software Developer focused on backend and web development with Java, Spring Boot
     <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
     <img alt="BCrypt" src="https://img.shields.io/badge/BCrypt-00599C?logoColor=white">
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white">
-    <img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-007396?logoColor=white">
+    <img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-007396?logo=java&logoColor=white">
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Databases</h3>
 
   <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
@@ -55,12 +73,19 @@ Software Developer focused on backend and web development with Java, Spring Boot
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
     <img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black">
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-7B3FE4?logo=railway&logoColor=white">
-    <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>☁️ Hosting, Domains and Services</h3>
+
+  <p>
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white">
+    <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white">
+    <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=white">
+  </p>
+
+  <h3>💻 Development Tools</h3>
 
   <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
@@ -71,59 +96,75 @@ Software Developer focused on backend and web development with Java, Spring Boot
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=visualstudiocode&logoColor=white">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white">
     <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white">
-    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white">    
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   </p>
 
 </details>
 
+---
+
 <details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
 
   <br>
 
-  ### 🛒 E-commerce API
+### 🌐 Divergraf — Client Project
 
-  REST API for an e-commerce system with secure authentication (JWT) and cloud deployment.
+Professional website developed and delivered for a real client.
 
-  **Technologies:**  
-  `Java` `Spring Boot` `PostgreSQL` `JWT` `BCrypt` `Docker` `Render`
+**Technologies:**
+`Next.js` `Tailwind CSS` `TypeScript` `SEO` 
 
-  🔗 Repository:  
-  https://github.com/JohanRandom/ecommerce-api  
+🌐 Live Website:
+https://www.divergraf.com
 
-  🌐 Live Demo:  
-  https://ecommerce-api-ln7m.onrender.com
+---
 
-  ---
+### 🛒 E-commerce API
 
-  ### 🌐 E-commerce Web
+REST API for an e-commerce system with secure authentication (JWT) and cloud deployment.
 
-  Frontend web application connected to the E-commerce API.
+**Technologies:**
+`Java` `Spring Boot` `PostgreSQL` `JWT` `BCrypt` `Docker` `Render`
 
-  **Technologies:**  
-  `React` `JavaScript` `TailwindCSS` `Axios` `Vite`
+🔗 Repository:
+https://github.com/JohanRandom/ecommerce-api
 
-  🔗 Repository:  
-  https://github.com/JohanRandom/ecommerce-web
+🌐 Live Demo:
+https://ecommerce-api-ln7m.onrender.com
 
-  🌐 Live Demo:  
-  https://ecommerce-web-gamma-one.vercel.app
+---
 
-  ---
+### 🌐 E-commerce Web
 
-  ### 🏫 School Emotional Management System
+Frontend web application connected to the E-commerce API.
 
-  Desktop application to manage student emotional wellbeing records.
+**Technologies:**
+`React` `JavaScript` `TailwindCSS` `Axios` `Vite`
 
-  **Technologies:**  
-  `Java` `Swing` `MySQL` `JDBC`
+🔗 Repository:
+https://github.com/JohanRandom/ecommerce-web
 
-  🔗 Repository:  
-  https://github.com/JohanRandom/school-emotional-management-system
+🌐 Live Demo:
+https://ecommerce-web-gamma-one.vercel.app
+
+---
+
+### 🏫 School Emotional Management System
+
+Desktop application to manage student emotional wellbeing records.
+
+**Technologies:**
+`Java` `Swing` `MySQL` `JDBC`
+
+🔗 Repository:
+https://github.com/JohanRandom/school-emotional-management-system
 
 </details>
+
+---
 
 <details>
   <summary><h2>📊 Stats and Activity</h2></summary>
@@ -139,33 +180,32 @@ Software Developer focused on backend and web development with Java, Spring Boot
     />
   </p>
 
-<h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 GitHub Profile Stats</h3>
 
-<!-- GitHub Readme Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Johan Moreno's Github Stats" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohanRandom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+      height="192px"
+    />
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    alt="Johan Moreno's Github Stats" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohanRandom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
-    height="192px"
-  />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Johan Moreno's Top Languages" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanRandom&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" 
+      height="192px"
+    />
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    alt="Johan Moreno's Top Languages" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanRandom&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" 
-    height="192px"
-  />
-</a>
-
-<br/>
+  <br/>
 
   <h3>📈 Activity Graph</h3>
 
   <p align="center">
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=JohanRandom&theme=tokyo-night&hide_border=true"
+      alt="GitHub Activity Graph"
     />
   </p>
 
@@ -173,7 +213,7 @@ Software Developer focused on backend and web development with Java, Spring Boot
 
 ---
 
-# 🌎 Connect With Me
+<h2 align="center">🌎 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janmoreno-dev/">
@@ -184,7 +224,7 @@ Software Developer focused on backend and web development with Java, Spring Boot
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 
-  <a href="mailto:janmoreno@poligran.edu.co">
+  <a href="mailto:johancodes@icloud.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
@@ -192,5 +232,5 @@ Software Developer focused on backend and web development with Java, Spring Boot
 ---
 
 <p align="center">
-  By <a href="https://github.com/JohanRandom">Johan Moreno</a>
+  Made by <a href="https://github.com/JohanRandom">Johan Moreno</a>
 </p>
