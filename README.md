@@ -118,7 +118,7 @@ Professional website developed and delivered for a real client.
 `Next.js` `Tailwind CSS` `TypeScript` `SEO` 
 
 🌐 Live Website:
-https://www.divergraf.com
+https://divergraf.com
 
 ---
 
